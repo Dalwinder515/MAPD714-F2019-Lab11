@@ -40,9 +40,9 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="igh-VU-ptS">
-                                <rect key="frame" x="166" y="143" width="82" height="30"/>
+                                <rect key="frame" x="180" y="143" width="54" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Create User"/>
+                                <state key="normal" title="Sign Up"/>
                                 <connections>
                                     <action selector="CreateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6kZ-aA-Cq9"/>
                                 </connections>
